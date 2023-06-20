@@ -1,2 +1,2 @@
-# Postfix-tree-traversal
+# Postfix tree traversal in depth
 Subspecies of graph_ tree traversal
